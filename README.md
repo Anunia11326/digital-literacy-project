@@ -2,9 +2,9 @@
 # Digital Literacy Project – CSE0001
 
 ## 👤 Student Details
-- Name: [Your Name]
-- Registration Number: [Your Reg No.]
-- Branch: B.Tech [Your Branch]
+- Name: [Aditya Nunia]
+- Registration Number: [25BCE11326]
+- Branch: B.Tech [CSE core]
 - Year: 1st Year
 
 ## 📘 Course Details
