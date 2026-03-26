@@ -1,0 +1,25 @@
+digital-literacy-project/
+│
+├── README.md
+│
+├── report/
+│   └── Project_Report.pdf
+│
+├── task-1-presentation/
+│   └── infographic.png / link.txt
+│
+├── task-2-portfolio/
+│   └── profile_screenshots.png
+│
+├── task-3-platforms/
+│   ├── coding_screenshot.png
+│   ├── google_form.png
+│   └── response_sheet.png
+│
+├── task-4-email-etiquette/
+│   ├── emails.docx
+│   └── social-media-checklist.md
+│
+├── task-5-cybercrime/
+│   ├── casestudy.md
+│   └── prevention-checklist.md
